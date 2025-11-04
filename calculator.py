@@ -7,5 +7,5 @@ def sub(a,b):
 def multiply (a,b):
     pass 
 
-def divid (a,b):
+def divide (a,b):
     pass 
